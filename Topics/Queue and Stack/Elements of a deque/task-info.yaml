@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 2, 3, 4, 5, 6, 7, 8, 9
+- text: 1, 2, 3, 4, 5, 6, 7, 8
+- text: 9, 8, 7, 6, 5, 4, 3, 2
+- text: 8, 7, 6, 5, 4, 3, 2, 1
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2106#comment
+status: Solved
+record: -1

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Minesweeper1.Minesweeper-task-build-classes-java.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task-build-reports-tests.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task-build-test-results.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task-build-tmp.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task-out.main" target="11" />
+      <module name="Minesweeper1.Minesweeper-task.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Creating_queue.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Deque_output.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Elements_of_a_deque.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Getting_the_max_element_of_a_stack.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Greedy_load_balance.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Html_Parser.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Queue_accessing_rule.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-The_hierarchy.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-The_LIFO_principle_in_action.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-The_order_of_removing_from_a_queue.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Theory.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Using_deque.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Which_brackets_are_balanced.main" target="11" />
+      <module name="Minesweeper1.Topics-Queue_and_Stack-Working_with_queue.main" target="11" />
+      <module name="Minesweeper1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
